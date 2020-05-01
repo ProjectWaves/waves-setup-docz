@@ -36,7 +36,7 @@
     {
       "key": "src/pages/index.mdx",
       "value": {
-        "name": "Hello world!",
+        "name": "Welcome",
         "route": "/",
         "id": "522b7407e210088f3588b943aec44115",
         "filepath": "src/pages/index.mdx",
@@ -45,7 +45,13 @@
         "hidden": false,
         "slug": "src-pages-index",
         "menu": "",
-        "headings": []
+        "headings": [
+          {
+            "slug": "welcome-to-the-setup-docs",
+            "depth": 1,
+            "value": "Welcome to the Setup Docs"
+          }
+        ]
       }
     }
   ],
