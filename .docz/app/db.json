@@ -1,12 +1,14 @@
 {
   "config": {
-    "title": "Gatsby Starter Hello World",
-    "description": "A simplified bare-bones starter for Gatsby",
+    "title": "Project Waves Setup",
+    "description": "Setup documentation for Project Waves",
     "menu": [],
     "version": "0.1.0",
     "repository": "https://github.com/gatsbyjs/gatsby-starter-hello-world",
     "native": false,
-    "themeConfig": {},
+    "themeConfig": {
+      "initialColorMode": "dark"
+    },
     "separator": "-"
   },
   "entries": [
