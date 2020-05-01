@@ -4,7 +4,7 @@
     "description": "Setup documentation for Project Waves",
     "menu": [],
     "version": "0.1.0",
-    "repository": "https://github.com/gatsbyjs/gatsby-starter-hello-world",
+    "repository": "https://github.com/ProjectWaves/waves-setup-docz",
     "native": false,
     "themeConfig": {
       "initialColorMode": "dark"
@@ -18,7 +18,7 @@
         "id": "04c6e90faac2675aa89e2176d2eec7d8",
         "filepath": "README.md",
         "fullpath": "/Users/jonathan-dhf/Desktop/projects/web-projects/waves/waves-setup-docz/README.md",
-        "link": "https://github.com/gatsbyjs/gatsby-starter-hello-world/edit/master/README.md",
+        "link": "https://github.com/ProjectWaves/waves-setup-docz/edit/master/README.md",
         "hidden": false,
         "slug": "readme",
         "route": "/readme",
@@ -41,7 +41,7 @@
         "id": "522b7407e210088f3588b943aec44115",
         "filepath": "src/pages/index.mdx",
         "fullpath": "/Users/jonathan-dhf/Desktop/projects/web-projects/waves/waves-setup-docz/src/pages/index.mdx",
-        "link": "https://github.com/gatsbyjs/gatsby-starter-hello-world/edit/master/src/pages/index.mdx",
+        "link": "https://github.com/ProjectWaves/waves-setup-docz/edit/master/src/pages/index.mdx",
         "hidden": false,
         "slug": "src-pages-index",
         "menu": "",
