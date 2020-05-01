@@ -1,0 +1,66 @@
+{
+  "config": {
+    "title": "Gatsby Starter Hello World",
+    "description": "A simplified bare-bones starter for Gatsby",
+    "menu": [],
+    "version": "0.1.0",
+    "repository": "https://github.com/gatsbyjs/gatsby-starter-hello-world",
+    "native": false,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "README.md",
+      "value": {
+        "id": "04c6e90faac2675aa89e2176d2eec7d8",
+        "filepath": "README.md",
+        "fullpath": "/Users/jonathan-dhf/Desktop/projects/web-projects/waves/waves-setup-docz/README.md",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-hello-world/edit/master/README.md",
+        "hidden": false,
+        "slug": "readme",
+        "route": "/readme",
+        "name": "Readme",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "-quick-start",
+            "depth": 2,
+            "value": "🚀 Quick start"
+          },
+          {
+            "slug": "🧐-whats-inside",
+            "depth": 2,
+            "value": "🧐 What's inside?"
+          },
+          {
+            "slug": "-learning-gatsby",
+            "depth": 2,
+            "value": "🎓 Learning Gatsby"
+          },
+          {
+            "slug": "-deploy",
+            "depth": 2,
+            "value": "💫 Deploy"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/pages/index.mdx",
+      "value": {
+        "name": "Hello world!",
+        "route": "/",
+        "id": "522b7407e210088f3588b943aec44115",
+        "filepath": "src/pages/index.mdx",
+        "fullpath": "/Users/jonathan-dhf/Desktop/projects/web-projects/waves/waves-setup-docz/src/pages/index.mdx",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-hello-world/edit/master/src/pages/index.mdx",
+        "hidden": false,
+        "slug": "src-pages-index",
+        "menu": "",
+        "headings": []
+      }
+    }
+  ],
+  "props": []
+}
