@@ -24,24 +24,9 @@
         "menu": "",
         "headings": [
           {
-            "slug": "-quick-start",
-            "depth": 2,
-            "value": "🚀 Quick start"
-          },
-          {
-            "slug": "🧐-whats-inside",
-            "depth": 2,
-            "value": "🧐 What's inside?"
-          },
-          {
-            "slug": "-learning-gatsby",
-            "depth": 2,
-            "value": "🎓 Learning Gatsby"
-          },
-          {
-            "slug": "-deploy",
-            "depth": 2,
-            "value": "💫 Deploy"
+            "slug": "project-waves-setup-documentation-work-in-progress",
+            "depth": 1,
+            "value": "Project Waves Setup Documentation (Work in Progress)"
           }
         ]
       }
