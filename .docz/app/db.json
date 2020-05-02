@@ -7,7 +7,21 @@
     "repository": "https://github.com/ProjectWaves/waves-setup-docz",
     "native": false,
     "themeConfig": {
-      "initialColorMode": "dark"
+      "initialColorMode": "dark",
+      "colors": {
+        "modes": {
+          "light": {
+            "header": {
+              "button": {}
+            }
+          },
+          "dark": {
+            "header": {
+              "button": {}
+            }
+          }
+        }
+      }
     },
     "separator": "-"
   },
