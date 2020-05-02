@@ -1,3 +1,9 @@
+---
+name: Read Me
+route: /readme
+menu: 'About'
+---
+
 # Project Waves Setup Documentation (Work in Progress)
 
 Hello! Welcome to the Project Waves Setup Documentation. This is a work in progress.

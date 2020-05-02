@@ -29,15 +29,15 @@
     {
       "key": "README.md",
       "value": {
+        "name": "Read Me",
+        "route": "/readme",
+        "menu": "About",
         "id": "04c6e90faac2675aa89e2176d2eec7d8",
         "filepath": "README.md",
         "fullpath": "/Users/jonathan-dhf/Desktop/projects/web-projects/waves/waves-setup-docz/README.md",
         "link": "https://github.com/ProjectWaves/waves-setup-docz/edit/master/README.md",
         "hidden": false,
         "slug": "readme",
-        "route": "/readme",
-        "name": "Readme",
-        "menu": "",
         "headings": [
           {
             "slug": "project-waves-setup-documentation-work-in-progress",
